@@ -1,4 +1,4 @@
 nginx
-sonarqube:11-community
-postgres:14
+sonarqube:latest
+postgres:latest
 openjdk:17-jdk
