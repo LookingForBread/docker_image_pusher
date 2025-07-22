@@ -2,4 +2,4 @@ nginx
 sonarqube:latest
 postgres:latest
 openjdk:17-jdk
-iredmail/mariadb:latest
+iredmail/mariadb:nightly
